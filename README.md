@@ -84,4 +84,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please contact:
-- **Dhivijit** - [GitHub Profile](https://github.com/dhivijit)
+- **Jithendra-Upendram** - [GitHub Profile](https://github.com/Jithendra-Upendram4)
