@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dhivijit/AttendanceSystem.git
+   git clone https://github.com/Jithendra-Upendram4/Attendance_Management.git
    cd AttendanceSystem
    ```
 
